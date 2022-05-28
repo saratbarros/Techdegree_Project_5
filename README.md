@@ -1,7 +1,6 @@
 # Techdegree_Project_5
- Unit 5 - Interactive Photo Gallery
+ Unit 5 - An Interactive Photo Gallery
 - *Final Grade:* **Exceeds Expectations** 
 
-## About the project
-- Created an interactive photo gallery using JavaScript for search function along with jQuery Lightbox plugin for the images. 
-- Responsive photo gallery when users search by typing within the search box and results are found based on the caption in the photo.
+## About this project
+Interactive image galleries are a common feature of many websites, from photo sites to e-commerce applications. Use HTML, CSS and the popular programming language JavaScript to create an interactive, searchable gallery of photos.
